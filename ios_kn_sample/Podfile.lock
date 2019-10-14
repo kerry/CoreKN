@@ -1,0 +1,16 @@
+PODS:
+  - lib (1.0)
+
+DEPENDENCIES:
+  - lib (from `../lib/`)
+
+EXTERNAL SOURCES:
+  lib:
+    :path: "../lib/"
+
+SPEC CHECKSUMS:
+  lib: efb225101eb9b6770f4a3cfeb572a9d06f80d913
+
+PODFILE CHECKSUM: 10244a915d04445f14768386b14da141747965ae
+
+COCOAPODS: 1.5.3
